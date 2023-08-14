@@ -28,13 +28,13 @@ cd Chat-with-Git-Repo
 2. Install the required packages with `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 For development dependencies, you can install them using the following command:
 
 ```bash
-pip install -r dev-requirements.txt
+pip3 install -r dev-requirements.txt
 ```
 
 3. Set the environment variables:
